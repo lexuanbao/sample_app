@@ -1,0 +1,29 @@
+vi:
+  layouts:
+    this: Ruby on Rails Tutorial Ứng dụng mẫu
+  static_pages:
+    home:
+      eng: English
+      vi: Vietnamese
+      this: Ứng dụng mẫu
+      first: Đây là trang chủ của ứng dụng mẫu
+      second: Ruby on Rails Tutorial
+    help:
+      eng: English
+      vi: Vietnamese
+      this: Giúp đỡ
+      first: Nhận được sự giúp đỡ của the Ruby on Rails Tutorial tại
+      second: "trang Rails Tutorial Help .Để nhận được sự giúp đỡ trong ứng dụng
+        mẫu này, xem"
+      third:
+      special: Ruby on Rails Tutorial
+    about:
+      eng: English
+      vi: Vietnamese
+      this: Giới thiệu
+      first: Một phần của
+      second: Learn Enough family oftutorials, là một
+      third: cuốn sách và
+      fourth: screencast series để dạy phát triển web cùng với
+      fiveth: Ruby on Rails. Đây là ứng dụng mẫu cho hướng dẫn.
+      special: Ruby on Rails Tutorial

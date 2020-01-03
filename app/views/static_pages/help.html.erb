@@ -1,0 +1,13 @@
+<% provide(:title, t(".this")) %>
+<%= link_to t(".eng"), locale:"en" %>
+<%= link_to t(".vi"), locale:"vi" %>
+<h1><%= t ".this" %></h1>
+<p>
+  <%= t ".first" %>
+  <%= link_to "https://www.railstutorial.org/help",
+    "https://www.railstutorial.org/help" %>
+  <%= t ".second" %>
+  <%= link_to "https://www.railstutorial.org/book",
+   "https://www.railstutorial.org/book" %>
+  <em><%= t ".special" %></em><%= t ".third" %> .
+</p>
