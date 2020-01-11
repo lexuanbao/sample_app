@@ -1,29 +1,32 @@
 vi:
+  title: "Ruby on Rails Tutorial Sample App"
   layouts:
     this: Ruby on Rails Tutorial Ứng dụng mẫu
+    eng: Tiếng Anh
+    vi: Tiếng Việt
   static_pages:
     home:
-      eng: English
-      vi: Vietnamese
+      title: Home
       this: Ứng dụng mẫu
-      first: Đây là trang chủ của ứng dụng mẫu
+      first: Đây là trang chủ của
       second: Ruby on Rails Tutorial
+      third: ứng dụng mẫu
     help:
-      eng: English
-      vi: Vietnamese
+      title: Help
       this: Giúp đỡ
       first: Nhận được sự giúp đỡ của the Ruby on Rails Tutorial tại
-      second: "trang Rails Tutorial Help .Để nhận được sự giúp đỡ trong ứng dụng
-        mẫu này, xem"
-      third:
-      special: Ruby on Rails Tutorial
+      second: trang Rails Tutorial Help
+      third: Để nhận được sự giúp đỡ trong ứng dụng mẫu này, xem
+      fourth: Ruby on Rails Tutorial
+      fiveth: ""
     about:
-      eng: English
-      vi: Vietnamese
+      title: About
       this: Giới thiệu
-      first: Một phần của
-      second: Learn Enough family oftutorials, là một
-      third: cuốn sách và
-      fourth: screencast series để dạy phát triển web cùng với
-      fiveth: Ruby on Rails. Đây là ứng dụng mẫu cho hướng dẫn.
-      special: Ruby on Rails Tutorial
+      first: Ruby on Rails Tutorial
+      second: là một
+      third: cuốn sách
+      fourth: và
+      fiveth: screencast series
+      sixth: để dạy phát triển web cùng với
+      seventh: Ruby on Rails.
+      eighth: Đây là ứng dụng mẫu cho hướng dẫn.

@@ -1,28 +1,32 @@
 en:
+  title: "Ruby on Rails Tutorial Sample App"
   layouts:
     this: Ruby on Rails Tutorial Sample App
+    eng: English
+    vi: Vietnamese
   static_pages:
     home:
-      eng: English
-      vi: Vietnamese
+      title: Home
       this: Sample App
-      first: This is the home page for thes ample application
-      second: Ruby on Rails Tutorial .
+      first: This is the home page for
+      second: Ruby on Rails Tutorial
+      third: the sample application .
     help:
-      eng: English
-      vi: Vietnamese
+      title: Help
       this: Help
       first: Get help on the Ruby on Rails Tutorial at the
-      second: Rails Tutorial Help page .To get help on this sample app, see the
-      third: book
-      special: Ruby on Rails Tutorial
+      second: Rails Tutorial Help page .
+      third: To get help on this sample app, see the
+      fourth: Ruby on Rails Tutorial
+      fiveth: book
     about:
-      eng: English
-      vi: Vietnamese
+      title: About
       this: About
-      first: part of the
-      second: Learn Enough family oftutorials, is a
-      third: book and
-      fourth: screencast series to teach web development with
-      fiveth: Ruby on Rails. This is the sample app for the tutorial.
-      special: Ruby on Rails Tutorial
+      first: Ruby on Rails Tutorial
+      second: is a
+      third: book
+      fourth: and
+      fiveth: screencast series
+      sixth: to teach web development with
+      seventh: Ruby on Rails.
+      eighth: This is the sample app for the tutorial.

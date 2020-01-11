@@ -1,17 +1,12 @@
-<% provide(:title, t(".this")) %>
-<%= link_to t(".eng"), locale:"en" %>
-<%= link_to t(".vi"), locale:"vi" %>
+<% provide :title, t(".title") %>
 <h1><%= t ".this" %></h1>
 <p>
-  <%= link_to "https://www.railstutorial.org/",
-    "https://www.railstutorial.org/" %>
-  <em><%= t ".special" %></em>, <%= t ".first" %>
-  <%= link_to "https://www.learnenough.com/", "https://www.learnenough.com/" %>
+  <em><%= link_to t(".first"), Settings.LinkRails %></em>
   <%= t ".second" %>
-  <%= link_to "https://www.railstutorial.org/book",
-    "https://www.railstutorial.org/book" %><%= t ".third" %>
-  <%= link_to "https://screencasts.railstutorial.org/",
-    "https://screencasts.railstutorial.org/" %><%= t ".fourth" %>
-  <%= link_to "https://rubyonrails.org/", "https://rubyonrails.org/" %>
-  <%= t ".fiveth" %>
+  <%= link_to t(".third"), Settings.LinkBook %>
+  <%= t ".fourth" %>
+  <%= link_to t(".fiveth"), Settings.LinkSreen %>
+  <%= t ".sixth" %>
+  <%= link_to t(".seventh"), Settings.LinkRuby %>
+  <%= t ".eighth" %>
 </p>
