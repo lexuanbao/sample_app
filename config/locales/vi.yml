@@ -1,6 +1,17 @@
 vi:
   title: "Ruby on Rails Tutorial Sample App"
   layouts:
+    header:
+      sample app: Ứng dụng mẫu
+      Home: Trang chủ
+      Help: Giúp đỡ
+      Log in: Đăng kí
+    footer:
+      Ruby on Rails Tutorial by: Ruby on Rails Tutorial bởi
+      Michael Hartl: Michael Hartl
+      About: Giới thiệu
+      Contact: Liên hệ
+      News: Tin tức
     this: Ruby on Rails Tutorial Ứng dụng mẫu
     eng: Tiếng Anh
     vi: Tiếng Việt
@@ -11,6 +22,7 @@ vi:
       first: Đây là trang chủ của
       second: Ruby on Rails Tutorial
       third: ứng dụng mẫu
+      Sign up now!: Đăng kí ngay!
     help:
       title: Help
       this: Giúp đỡ
@@ -30,3 +42,14 @@ vi:
       sixth: để dạy phát triển web cùng với
       seventh: Ruby on Rails.
       eighth: Đây là ứng dụng mẫu cho hướng dẫn.
+    contact:
+      title: Contact
+      this: Liên hệ
+      first: Liên lạc the Ruby on Rails Tutorial về ứng dụng mẫu tại
+      second: contact page
+  users:
+    new:
+      title: New
+      this: Contact
+      first: Đăng kí
+      second: Trang này sẽ là trang đăng kí cho người dùng mới

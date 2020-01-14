@@ -1,6 +1,17 @@
 en:
   title: "Ruby on Rails Tutorial Sample App"
   layouts:
+    header:
+      sample app: sample app
+      Home: Home
+      Help: Help
+      Log in: Log in
+    footer:
+      Ruby on Rails Tutorial by: Ruby on Rails Tutorial by
+      Michael Hartl: Michael Hartl
+      About: About
+      Contact: Contact
+      News: News
     this: Ruby on Rails Tutorial Sample App
     eng: English
     vi: Vietnamese
@@ -11,6 +22,7 @@ en:
       first: This is the home page for
       second: Ruby on Rails Tutorial
       third: the sample application .
+      Sign up now!: Sign up now!
     help:
       title: Help
       this: Help
@@ -30,3 +42,14 @@ en:
       sixth: to teach web development with
       seventh: Ruby on Rails.
       eighth: This is the sample app for the tutorial.
+    contact:
+      title: Contact
+      this: Contact
+      first: Contact the Ruby on Rails Tutorial about the sample app at the
+      second: contact page
+  users:
+    new:
+      title: New
+      this: Contact
+      first: Sign up
+      second: This will be a signup page for new users.

@@ -7,11 +7,13 @@ gem "bootsnap", ">= 1.4.2", require: false
 gem "jbuilder", "~> 2.7"
 gem "puma", "~> 4.1"
 gem "rails", "~> 6.0.2", ">= 6.0.2.1"
+gem 'bootstrap-sass', '3.3.7'
 gem "rails-i18n"
 gem "sass-rails", ">= 6"
 gem "turbolinks", "~> 5"
 gem "webpacker", "~> 4.0"
 gem "config"
+gem 'rails-controller-testing'
 
 group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
